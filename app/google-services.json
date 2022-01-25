@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48412702979",
+    "project_id": "free-code-bdac8",
+    "storage_bucket": "free-code-bdac8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48412702979:android:b478cdb428b49ec5335136",
+        "android_client_info": {
+          "package_name": "com.freecode.webview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48412702979-gt4g6h13t6fn35vp3hlu4an3p73ubk5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvv8Swc8kD8C1WY6U_hEykckbqnWHr9lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48412702979-gt4g6h13t6fn35vp3hlu4an3p73ubk5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

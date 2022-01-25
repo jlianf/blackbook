@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Black Book</string>
+    <string name="drawer_open">Open navigation</string>
+    <string name="drawer_close">Close navigation</string>
+
+    <string name="banner_id">ca-app-pub-4905035688129642/7813093601</string>
+    <string name="app_id">ca-app-pub-4905035688129642~3707818326</string>
+
+</resources>
